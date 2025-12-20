@@ -1,4 +1,4 @@
-# Hi, I'm Josh Wheeler 👋
+# Hi, I'm Josh 👋
 
 ![Advent of Code](https://img.shields.io/badge/Advent%20of%20Code%202025-24⭐-yellow?style=flat&logo=adventofcode)
 
