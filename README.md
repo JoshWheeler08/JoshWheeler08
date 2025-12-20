@@ -19,7 +19,7 @@ I'm a Mid-Level Software Engineer at Ascent Platform, working across infrastruct
 ## 🚀 Recent Featured Projects
 **[Cooperative IRL for Assistive Agents](https://github.com/JoshWheeler08/cooperative-irl-assistive-agents)** - My MSc dissertation implementing state-of-the-art Inverse Reinforcement Learning algorithms for human-robot cooperation and assistive action planning (Python).
 
-**[Advent of Code 2025](https://github.com/JoshWheeler08/advent-of-code-2025)** - All 22 stars completed! Daily algorithm challenges solved in Typescript.
+**[Advent of Code 2025](https://github.com/JoshWheeler08/advent-of-code-2025)** - All 24 stars completed! Daily algorithm challenges solved in Typescript.
 
 ## ⚽ Beyond Code
 
