@@ -1,6 +1,6 @@
 # Hi, I'm Josh Wheeler 👋
 
-![Advent of Code](https://img.shields.io/badge/Advent%20of%20Code%202025-22⭐-yellow?style=flat&logo=adventofcode)
+![Advent of Code](https://img.shields.io/badge/Advent%20of%20Code%202025-24⭐-yellow?style=flat&logo=adventofcode)
 
 ## About Me
 
