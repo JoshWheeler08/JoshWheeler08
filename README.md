@@ -21,9 +21,5 @@ I'm a Mid-Level Software Engineer at Ascent Platform, working across infrastruct
 
 **[Advent of Code 2025](https://github.com/JoshWheeler08/advent-of-code-2025)** - All 24 stars completed! Daily algorithm challenges solved in Typescript.
 
-## ⚽ Beyond Code
-
-Outside of work, I enjoy playing football, running marathons and triathlons, ballroom and Latin dancing, and learning piano.
-
 ---
 
