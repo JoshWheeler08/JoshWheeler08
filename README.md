@@ -4,7 +4,9 @@
 
 ## About Me
 
-I'm a Software Engineer at Ascent Platform, working across infrastructure, software architecture, and product development. I design scalable systems, build microservices, and work directly with customers to deliver solutions.
+I'm a Software Engineer at Ascent Platform working on cloud infrastructure, distributed systems, and product development.
+
+I'm interested in event-driven architectures, building LLM-powered tools, and occasionally diving into weird side projects.
 
 ## 🛠️ Technologies I Work With
 
